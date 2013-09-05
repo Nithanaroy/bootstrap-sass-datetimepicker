@@ -1,6 +1,3 @@
-jquery-simple-datetimepicker (jquery.simple-dtpicker.js)
-========
-
 Fork of Masanori Ohgita's DateTime picker designed to work with Bootstrap 3, Font-Awesome, and (optionally) Sprockets. Easy to customize.
 
 ![screenshot](https://raw.github.com/icambron/jquery-simple-datetimepicker/master/design/dtpicker_screenshot.png)
